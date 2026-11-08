@@ -1,0 +1,17 @@
+{
+  "name": "Öğrenci Takvimi",
+  "short_name": "Takvim",
+  "description": "Günlük, haftalık, aylık ve dönemlik öğrenci planlayıcısı",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5F8FF",
+  "theme_color": "#4F7CFF",
+  "lang": "tr",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
